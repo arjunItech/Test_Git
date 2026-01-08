@@ -18,6 +18,9 @@ public class Simple_Class {
 		
 		
 		System.out.println("Hello World"+Stringo.toString());
+		System.out.println("first   cut "+Stringo.toString());
+
+
 	}
 	
 
