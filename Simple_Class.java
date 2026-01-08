@@ -19,6 +19,7 @@ public class Simple_Class {
 		
 		System.out.println("Hello World"+Stringo.toString());
 		System.out.println("first   cut "+Stringo.toString());
+		System.out.println("first   cut- feature of feature  "+Stringo.toString());
 
 
 	}
